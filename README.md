@@ -17,7 +17,7 @@ Abra a [última release](https://github.com/Frankwillians/opendaw-releases/relea
 | Debian/Ubuntu, amd64 | `OpenDAW-<versão>-amd64.deb` | Pacote para instalação pelo gerenciador do sistema. |
 | Linux, x64 | `OpenDAW-<versão>-x64.tar.gz` | Arquivos do aplicativo para extrair em uma pasta. |
 
-A distribuição para Windows contém apenas o **Setup**, sem pacote Portable. Não há pacote para macOS; nesse sistema, use a versão web.
+A distribuição para Windows oferece o **Setup** e, a partir da v1.2.4, também o **Portable**. Não há pacote para macOS; nesse sistema, use a versão web.
 
 Os arquivos **Source code (zip/tar.gz)** adicionados automaticamente pelo GitHub não são o aplicativo nem o seu código-fonte: contêm apenas os arquivos deste repositório de distribuição.
 
@@ -47,7 +47,7 @@ No Windows instalado, o aplicativo pode baixar e iniciar o novo Setup. Na web, n
 
 **Se você usa a versão 1.2.1 ou anterior**, baixe uma versão atual pelo site ou por este repositório uma vez: essas versões antigas ainda usam o canal anterior de atualizações.
 
-Antes de atualizar, salve seu trabalho e faça uma cópia dos projetos importantes. O [histórico de versões](https://github.com/Frankwillians/opendaw-releases/releases) reúne as notas de cada lançamento.
+Antes de atualizar, salve seu trabalho e faça uma cópia dos projetos importantes. O [histórico de versões](https://github.com/Frankwillians/opendaw-releases/releases) reúne as notas de cada lançamento; as notas da v1.2.4 também ficam versionadas em [`releases/v1.2.4.md`](releases/v1.2.4.md).
 
 ## Apoie o OpenDAW
 
