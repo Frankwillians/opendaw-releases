@@ -47,7 +47,7 @@ No Windows instalado, o aplicativo pode baixar e iniciar o novo Setup. Na web, n
 
 **Se você usa a versão 1.2.1 ou anterior**, baixe uma versão atual pelo site ou por este repositório uma vez: essas versões antigas ainda usam o canal anterior de atualizações.
 
-Antes de atualizar, salve seu trabalho e faça uma cópia dos projetos importantes. O [histórico de versões](https://github.com/Frankwillians/opendaw-releases/releases) reúne as notas de cada lançamento; as notas da v1.2.4 também ficam versionadas em [`releases/v1.2.4.md`](releases/v1.2.4.md).
+Antes de atualizar, salve seu trabalho e faça uma cópia dos projetos importantes. O [histórico de versões](https://github.com/Frankwillians/opendaw-releases/releases) reúne as notas de cada lançamento; as notas da v1.2.5 também ficam versionadas em [`releases/v1.2.5.md`](releases/v1.2.5.md).
 
 ## Apoie o OpenDAW
 
