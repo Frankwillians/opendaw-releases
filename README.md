@@ -37,7 +37,7 @@ Baixe o Setup nos Assets e execute o instalador. O executável ainda não possui
 
 O OpenDAW inclui gravação e edição de áudio, timeline, mixer, efeitos internos, instrumentos MIDI, piano roll, sequenciador de bateria, modelagem de amplificadores NAM e exportação WAV/MP3.
 
-Plugins **VST2/VST3 nativos e saída ASIO são exclusivos do aplicativo para Windows**. A versão Linux e a versão web utilizam WebAudio e as entradas disponíveis pelo sistema/navegador; não carregam os plugins nativos do Windows.
+Plugins **VST2/VST3 nativos e entrada/saída ASIO são exclusivos do aplicativo para Windows**. A versão Linux e a versão web utilizam WebAudio e as entradas disponíveis pelo sistema/navegador; não carregam os plugins nativos do Windows.
 
 ## Atualizações
 
@@ -47,7 +47,7 @@ No Windows instalado, o aplicativo pode baixar e iniciar o novo Setup. Na web, n
 
 **Se você usa a versão 1.2.1 ou anterior**, baixe uma versão atual pelo site ou por este repositório uma vez: essas versões antigas ainda usam o canal anterior de atualizações.
 
-Antes de atualizar, salve seu trabalho e faça uma cópia dos projetos importantes. O [histórico de versões](https://github.com/Frankwillians/opendaw-releases/releases) reúne as notas de cada lançamento; as notas da v1.2.5 também ficam versionadas em [`releases/v1.2.5.md`](releases/v1.2.5.md).
+Antes de atualizar, salve seu trabalho e faça uma cópia dos projetos importantes. O [histórico de versões](https://github.com/Frankwillians/opendaw-releases/releases) reúne as notas de cada lançamento; as notas da v1.2.6 também ficam versionadas em [`releases/v1.2.6.md`](releases/v1.2.6.md).
 
 ## Apoie o OpenDAW
 
